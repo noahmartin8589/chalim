@@ -1,12 +1,7 @@
 {
-  "name": "rel",
-  "version": "1.1.0",
-  "description": "Stable relay for gaming traffic",
-  "main": "index.js",
+  "name": "sasad",
+  "version": "1.0.0",
+  "description": "sasad",
   "private": true,
-  "engines": {
-    "node": "20.x"
-  },
-  "dependencies": {},
   "license": "MIT"
 }
