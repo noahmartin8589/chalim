@@ -1,0 +1,12 @@
+{
+  "name": "rel",
+  "version": "1.1.0",
+  "description": "Stable relay for gaming traffic",
+  "main": "index.js",
+  "private": true,
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
